@@ -17,7 +17,6 @@ export const markets = [
     "CL",
     "CO",
     "CR",
-    "CY",
     "CZ",
     "DE",
     "DK",
